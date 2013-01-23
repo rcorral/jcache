@@ -1,4 +1,4 @@
-#JCache
+#jcache
 
 ##What is it?
 Use jcache as a proxy to localStorage. It contains many useful methods not part of localStorage.
